@@ -1,4 +1,4 @@
-# 
+# Secure AI leaf disease detection system presets. Featuring automated-decision-making and object-detection — optimized for maximum performance.
 
 
 
